@@ -19,7 +19,7 @@
     "mongoose": "*",
     "morgan": "*",
     "popper.js": "*",
-    "pug": "2.0.0-alpha6",
+    "pug": "3.0.1",
     "request": "^2.83.0",
     "serve-favicon": "*"
   }
